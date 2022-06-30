@@ -14,6 +14,9 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/idriss_974_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idriss_974_#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
