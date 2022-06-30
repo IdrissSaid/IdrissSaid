@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/idriss-said-8865b2200/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/idriss-said-8865b2200/#gh-light-mode-only))
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/idriss-said-8865b2200/#gh-dark-mode-only))
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/idriss_974_#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/idriss_974_#gh-dark-mode-only)
