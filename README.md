@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Idriss 👋</h1>
 <h3 align="center">A passionate developer from Reunion</h3>
 
+<p align="center">
+    <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+</p>
+
 - 🔭 I’m currently working on **my futur website**
 
 - 🌱 I’m currently learning **C++, HTML/CSS, Kotlin and PowerShell**
