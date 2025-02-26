@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **a project that will enhance my skills.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IdrissSaid?tab=repositories](https://github.com/IdrissSaid?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/IdrissSaid?tab=repositories) [GitLab](https://gitlab.com/users/IdrissSaid/projects)
 
 - 📫 How to reach me **idriss.said@epitech.eu**
 
