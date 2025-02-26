@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Idriss 👋</h1>
-<h3 align="center">A passionate developer from Reunion</h3>
+<h3 align="center">A passionate developer from La Reunion</h3>
 
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my futur website**
 
-- 🌱 I’m currently learning **C++, HTML/CSS, Kotlin and PowerShell**
+- 🌱 I’m currently learning **Front-end and Back-end languages**
 
 - 👯 I’m looking to collaborate on **a project that will enhance my skills.**
 
